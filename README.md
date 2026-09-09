@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 
 ### Primary Languages and Frameworks
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/RUST-555999?style=flat&logo=rust&logoColor=white" alt="Rust" height="30">"
+  <img src="https://img.shields.io/badge/RUST-555999?style=flat&logo=rust&logoColor=white" alt="Rust" height="30">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" alt="SQL" height="30">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="30">
+  <img src="https://img.shields.io/badge/Azure-FFF1E?style=flat&logo=Azure&logoColor=black" alt="JavaScript" height="30">
   </div>
 
 <br>
