@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Passionate Technologist from the UK, focussed on impactful innovative solutions.</h3>
 
+<p>Managing Consultant, Fractional Chief Technology Officer, Strategic Advisor at Loyal VC. Trustee at Diocese of Chichester Academy Trust. Experienced in the delivery of AI projects, Cloud Infrastructure, and API dev.</p>
+
 - 🧠 I have specific knowledge and experience in **cloud infrastructure, strategy and getting stuff done**.
 - 💬 Feel free to ask me about going from 0 to 1.
 - 📫 Reach me at: jstanbridge@gmail.com
