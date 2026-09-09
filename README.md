@@ -17,7 +17,25 @@ Here are some ideas to get you started:
 
 <h3 align="center">Passionate Technologist from the UK, focussed on impactful innovative solutions.</h3>
 
-<p>Managing Consultant, Fractional Chief Technology Officer, Strategic Advisor at Loyal VC. Trustee at Diocese of Chichester Academy Trust. Experienced in the delivery of AI projects, Cloud Infrastructure, and API dev.</p>
+Managing Consultant, Fractional Chief Technology Officer, Strategic Advisor at Loyal VC. Trustee at Diocese of Chichester Academy Trust. Experienced in the delivery of AI projects, Cloud Infrastructure, and API dev.
+
+As a versatile, accomplished, and growth-focused senior product and customer success leader, I excel in guiding the development and execution of high-impact product initiatives. With 14 years of experience as General Manager with Microsoft's cloud business, leading engineering, technical, and operational teams across Asia and Europe, and 2 years as Vice President of Cloud Infrastructure product management with Oracle, I am often referred to as the "Go To IT Guy".
+
+
+
+My expertise in product strategy, technical leadership, and customer success has enabled me to drive business growth and deliver value to customers through innovative solutions. I have a track record of successfully launching and scaling products across diverse industries, including healthcare, finance, and education.
+
+
+
+In my current roles as Technical Product Management at OmniIndex, Strategic Advisor at Loyal VC, and General Manager at Purposebridge, I continue to leverage my skills and experience to drive innovation and growth. Additionally, as a Board Trustee at the Diocese of Chichester Academy Trust, I am committed to ensuring the highest standards of education and pastoral care for young people in the community.
+
+
+
+I am passionate about machine learning and AI, having delivered projects that include blockchain, homomorphic encryption, machine learning models in Python, front-end web projects to access machine learning and AI, and hand-built learning models and APIs. I believe that these technologies have the potential to transform industries and improve people's lives.
+
+
+
+Overall, my diverse experience, technical expertise, and passion for innovation make me a valuable asset to any organization seeking to drive growth and deliver value to customers.
 
 - 🧠 I have specific knowledge and experience in **cloud infrastructure, strategy and getting stuff done**.
 - 💬 Feel free to ask me about going from 0 to 1.
